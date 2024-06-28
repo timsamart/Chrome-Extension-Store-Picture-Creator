@@ -1,10 +1,12 @@
+<img src="icon.png" alt="Game Store Image Processor Icon" width="100" height="100" align="right">
+
 # Game Store Image Processor
 
 ## Overview
 
 The Game Store Image Processor is a web application designed to help game developers and publishers prepare images for their game store listings. It provides an easy-to-use interface for processing screenshots, small promotional tiles, and marquee promotional images according to common game store specifications.
 
-![Game Store Image Processor Screenshot](/icon.png)
+![Game Store Image Processor Screenshot](https://via.placeholder.com/800x400.png?text=Game+Store+Image+Processor+Screenshot)
 
 ## Features
 
